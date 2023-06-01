@@ -1,7 +1,11 @@
+import Typography from '@mui/material/Typography'
+
 function App() {
   return (
     <>
-      <h1>hello123</h1>
+      <Typography variant="body2" color="text.secondary">
+        test
+      </Typography>
     </>
   )
 }
